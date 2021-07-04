@@ -1,0 +1,5 @@
+2021-04-26 16:26:41.448  INFO 15904 --- [main] c.c.f.FlightmanagementApplicationTests   : Starting FlightmanagementApplicationTests using Java 15.0.1 on AVANISH-PC with PID 15904 (started by AVANISH SINGHAL in C:\Users\AVANISH SINGHAL\eclipse-workspace\flightmanagement)
+2021-04-26 16:26:41.456  INFO 15904 --- [main] c.c.f.FlightmanagementApplicationTests   : No active profile set, falling back to default profiles: default
+2021-04-26 16:26:44.221  INFO 15904 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-26 16:26:44.915  INFO 15904 --- [main] c.c.f.FlightmanagementApplicationTests   : Started FlightmanagementApplicationTests in 4.058 seconds (JVM running for 6.098)
+2021-04-26 16:26:45.867  INFO 15904 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
